@@ -1,4 +1,6 @@
-#This is my Stream 2 Project. It is called School Donations Dashboard.
+#STREAM 2 PROJECT
+
+School Donations Dashboard
 
 
 In this project, the dataset has been used from DonorsChoose.org to build a data visualisation that represents school donations broken down by different attributes over a timeline. 
